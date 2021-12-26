@@ -3,3 +3,5 @@ First change of file.
 git commit -a -m 
 
 try git commit --amend
+
+push to remote repository!!
