@@ -4,7 +4,7 @@ git commit -a -m
 
 try git commit --amend
 
-push to remote repository!!
+Line from user1 (branch&remoutRepository)
 
 Line from user2!
 
