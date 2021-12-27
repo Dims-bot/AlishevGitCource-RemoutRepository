@@ -4,7 +4,8 @@ git commit -a -m
 
 try git commit --amend
 
-Line from user1 (branch&remoutRepository)
+Another Line from user1 (after second 
+user made some changes the same file)
 
 Line from user2!
 
