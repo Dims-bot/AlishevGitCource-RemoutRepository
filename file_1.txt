@@ -4,7 +4,7 @@ git commit -a -m
 
 try git commit --amend
 
-Line from user1 (branch&remoutRepository)
+Line from user2 (branch and remout repsitory, coflicts)
 
 Line from user2!
 
