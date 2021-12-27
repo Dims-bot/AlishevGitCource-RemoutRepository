@@ -7,3 +7,5 @@ try git commit --amend
 push to remote repository!!
 
 Line from user2!
+
+Another Line from user1!
