@@ -4,3 +4,5 @@ git commit -a -m
 
 try git commit --amend
 
+29.12.2021 16-13 Add some function by user1
+
