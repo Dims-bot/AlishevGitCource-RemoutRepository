@@ -2,3 +2,5 @@ Add file_3 from branch bugfix_1
 
 Add line from bugFix_1 by user2
 
+Add new line by user_1!
+

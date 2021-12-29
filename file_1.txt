@@ -4,11 +4,3 @@ git commit -a -m
 
 try git commit --amend
 
-Line from user2 (branch and remout repsitory, coflicts)
-
-
-Line from user2!
-
-Another Line from user1!
-
-One more line for test remout repository and branch
